@@ -2,6 +2,7 @@
 
 Aplication web --> http://localhost:8080/SpringMVCHibernateCRUDExample/getAllCountries
 
+Eclipse Mars 2 / Windows 7 / 32bit
 
 Build Path
 	Apache Tomcar	(NO)
